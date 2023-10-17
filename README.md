@@ -1,3 +1,3 @@
 # course_docker
 
-# Studying Docker on the karpov.cources website
+Studying Docker on the karpov.cources website
