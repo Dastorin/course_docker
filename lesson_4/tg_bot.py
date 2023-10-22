@@ -10,7 +10,7 @@ logging.basicConfig(
 )
 
 # ============ !!! Секретный токен !!! ===============
-APP_TOKEN = ""
+APP_TOKEN = "6373747396:AAFBwPEAtE4h1U8siojYIXfzb6l1MzHbrjk"
 # ====================================================
 PATH_TO_TODO_TABLE = "todo_result/todo_list.csv"
 
