@@ -1,0 +1,84 @@
+INFO:root:Random value = 0
+ERROR:root:sleep length must be non-negative
+INFO:root:Random value = 2
+INFO:root:Random value = 0
+ERROR:root:sleep length must be non-negative
+ERROR:root:sleep length must be non-negative
+INFO:root:Random value = 0
+INFO:root:Random value = 0
+INFO:root:Random value = 1
+ERROR:root:sleep length must be non-negative
+ERROR:root:sleep length must be non-negative
+ERROR:root:sleep length must be non-negative
+INFO:root:Random value = 0
+INFO:root:Random value = 1
+INFO:root:Random value = 0
+INFO:root:Random value = 2
+INFO:root:Random value = 1
+INFO:root:Random value = 0
+INFO:root:Random value = 2
+ERROR:root:sleep length must be non-negative
+ERROR:root:sleep length must be non-negative
+INFO:root:Random value = 2
+INFO:root:Random value = 0
+ERROR:root:sleep length must be non-negative
+ERROR:root:sleep length must be non-negative
+ERROR:root:sleep length must be non-negative
+INFO:root:Random value = 1
+INFO:root:Random value = 0
+INFO:root:Random value = 0
+INFO:root:Random value = 1
+INFO:root:Random value = 1
+INFO:root:Random value = 1
+INFO:root:Random value = 0
+INFO:root:Random value = 0
+INFO:root:Random value = 2
+INFO:root:Random value = 2
+INFO:root:Random value = 1
+INFO:root:Random value = 1
+ERROR:root:sleep length must be non-negative
+INFO:root:Random value = 0
+ERROR:root:sleep length must be non-negative
+INFO:root:Random value = 1
+INFO:root:Random value = 0
+ERROR:root:sleep length must be non-negative
+INFO:root:Random value = 0
+ERROR:root:sleep length must be non-negative
+INFO:root:Random value = 2
+INFO:root:Random value = 1
+INFO:root:Random value = 2
+ERROR:root:sleep length must be non-negative
+INFO:root:Random value = 2
+ERROR:root:sleep length must be non-negative
+INFO:root:Random value = 2
+INFO:root:Random value = 2
+ERROR:root:sleep length must be non-negative
+ERROR:root:sleep length must be non-negative
+INFO:root:Random value = 1
+INFO:root:Random value = 0
+ERROR:root:sleep length must be non-negative
+ERROR:root:sleep length must be non-negative
+ERROR:root:sleep length must be non-negative
+INFO:root:Random value = 1
+INFO:root:Random value = 2
+INFO:root:Random value = 2
+INFO:root:Random value = 2
+INFO:root:Random value = 1
+INFO:root:Random value = 0
+ERROR:root:sleep length must be non-negative
+ERROR:root:sleep length must be non-negative
+ERROR:root:sleep length must be non-negative
+ERROR:root:sleep length must be non-negative
+ERROR:root:sleep length must be non-negative
+INFO:root:Random value = 0
+ERROR:root:sleep length must be non-negative
+INFO:root:Random value = 1
+ERROR:root:sleep length must be non-negative
+INFO:root:Random value = 2
+INFO:root:Random value = 0
+INFO:root:Random value = 1
+INFO:root:Random value = 1
+ERROR:root:sleep length must be non-negative
+ERROR:root:sleep length must be non-negative
+ERROR:root:sleep length must be non-negative
+INFO:root:Random value = 0
