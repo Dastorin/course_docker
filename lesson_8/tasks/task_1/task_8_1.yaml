@@ -1,0 +1,11 @@
+clickhouse:
+  db: clickhouse_app_db
+  host: clickhouse_host
+  password: clickhouse_app_password
+  user: clickhouse_app_user
+
+postgres:
+  host: postgres_host
+  password: postgres_app_password
+  port: 5432
+  user: postgres_app_user

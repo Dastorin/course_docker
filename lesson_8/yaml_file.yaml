@@ -1,0 +1,36 @@
+#junior:
+#  &junior
+#  position: junior
+#  salary: 500000
+#
+#
+#team:
+#  backend:
+#    - Peter:
+#        <<: *junior
+#    - Olga:
+#        <<: *junior
+
+#'team': {
+#  'backend': [
+#    {'Peter': {'position': 'junior', 'salary': 500000}}, 
+#    {'Olga': {'position': 'junior', 'salary': 500000}}
+#    ]
+#  }
+#}
+
+
+stages:
+  - style
+  - test
+
+linters:
+  stage: style
+  script:
+    - isort --check --diff src/*
+    - flake8 src/*
+
+test:
+  stage: test
+  script:
+    - pytest src/test.py
