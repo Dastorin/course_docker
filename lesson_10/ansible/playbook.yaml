@@ -1,0 +1,17 @@
+name: Deploy frontend
+hosts: "production"
+remote_user: "dastorin"
+tasks:
+  - name: Send config file
+    ansible.builtin.copy:
+      src: ./nginx.conf
+      dest: /home/pops/10.Ainsible
+    
+  - name: Deploy container
+    docker_conteiner:
+      name: "nginx"
+      image: "dastorin/test_frontend:v1"
+      ports:
+        - "80:80"
+      volumes:
+        - $(pwd)/nginx.conf:/etc/nginx/nginx/conf:ro
